@@ -4,7 +4,7 @@ library(maphylogeny)
 library(dplyr)
 library(genefilter)
 
-df <- read.csv("Normalized expression data.csv", fileEncoding="UTF-8-BOM")
+df <- read.csv("Imported_expression_data_NOS_IDH1_removed.csv", fileEncoding="UTF-8-BOM")
 df <- tibble::column_to_rownames(df, var = "X")
 ## import TCGA patient expression data.frame
 
