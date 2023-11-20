@@ -4,11 +4,11 @@ library(maphylogeny)
 library(dplyr)
 library(genefilter)
 
-df <- read.csv("Normalized expression data.csv", fileEncoding="UTF-8-BOM")
+df <- read.csv("Imported_expression_data_NOS_IDH1_removed.csv", fileEncoding="UTF-8-BOM")
 df <- tibble::column_to_rownames(df, var = "X")
 ## import TCGA patient expression data.frame
 
-var <- read.csv("Table of samples with AML subtype", fileEncoding="UTF-8-BOM")
+var <- read.csv("varMetadata_AML_subtype_V3_NOS_IDH1_removed.csv", fileEncoding="UTF-8-BOM")
 var <- tibble::column_to_rownames(var, var = "X")
 var <- AnnotatedDataFrame(var)
 ##REQUIRED for grouping TCGA patients by AML subtype 
