@@ -1,0 +1,141 @@
+﻿,AML_subtype,Colour,
+TCGA.AB.2803,APL with PML-RARA,MID BLUE,
+TCGA.AB.2805,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2807,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2810,AML with mutated NPM1,PINK,
+TCGA.AB.2811,AML with mutated NPM1,PINK,
+TCGA.AB.2812,AML with mutated NPM1,PINK,
+TCGA.AB.2813,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2814,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2815,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2816,AML with mutated NPM1,PINK,
+TCGA.AB.2817,AML with BCR-ABL1,RED,
+TCGA.AB.2818,AML with mutated NPM1,PINK,
+TCGA.AB.2819,AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1,ORANGE,ONE UNDER CHECKERS
+TCGA.AB.2820,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2821,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2823,APL with PML-RARA,MID BLUE,
+TCGA.AB.2824,AML with mutated NPM1,PINK,
+TCGA.AB.2825,AML with mutated NPM1,PINK,
+TCGA.AB.2826,AML with mutated NPM1,PINK,
+TCGA.AB.2828,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2830,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2832,AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A,DARK GREEN,
+TCGA.AB.2833,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2834,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2835,AML with mutated NPM1,PINK,
+TCGA.AB.2836,AML with mutated NPM1,PINK,
+TCGA.AB.2837,AML with mutated NPM1,PINK,
+TCGA.AB.2839,AML with mutated NPM1,PINK,
+TCGA.AB.2840,APL with PML-RARA,MID BLUE,
+TCGA.AB.2841,APL with PML-RARA,MID BLUE,
+TCGA.AB.2842,AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A,DARK GREEN,
+TCGA.AB.2845,AML with biallelic mutations of CEBPA,YELLOW,
+TCGA.AB.2846,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2848,AML with mutated NPM1,PINK,
+TCGA.AB.2851,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2853,AML with mutated NPM1,PINK,
+TCGA.AB.2857,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2858,AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1,ORANGE,ONE UNDER CHECKERS
+TCGA.AB.2859,AML with mutated NPM1,PINK,
+TCGA.AB.2860,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2861,AML with mutated NPM1,PINK,
+TCGA.AB.2862,APL with PML-RARA,MID BLUE,
+TCGA.AB.2865,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2866,AML with IDH2 mutation and no over class defining lesions,LIGHT BLUE,
+TCGA.AB.2868,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2869,AML with mutated NPM1,PINK,
+TCGA.AB.2871,AML with mutated NPM1,PINK,
+TCGA.AB.2872,APL with PML-RARA,MID BLUE,
+TCGA.AB.2874,AML with IDH2 mutation and no over class defining lesions,LIGHT BLUE,
+TCGA.AB.2875,AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1,ORANGE,ONE UNDER CHECKERS
+TCGA.AB.2877,AML with mutated NPM1,PINK,
+TCGA.AB.2879,AML with mutated NPM1,PINK,
+TCGA.AB.2880,AML with biallelic mutations of CEBPA,YELLOW,
+TCGA.AB.2881,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2884,AML with mutated NPM1,PINK,
+TCGA.AB.2885,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2886,AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1,ORANGE,ONE UNDER CHECKERS
+TCGA.AB.2887,AML with IDH2 mutation and no over class defining lesions,LIGHT BLUE,
+TCGA.AB.2888,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2889,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2890,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2891,AML with IDH2 mutation and no over class defining lesions,LIGHT BLUE,
+TCGA.AB.2895,AML with mutated NPM1,PINK,
+TCGA.AB.2896,AML with mutated NPM1,PINK,
+TCGA.AB.2897,APL with PML-RARA,MID BLUE,
+TCGA.AB.2898,AML with IDH2 mutation and no over class defining lesions,LIGHT BLUE,
+TCGA.AB.2899,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2900,AML with mutated NPM1,PINK,
+TCGA.AB.2901,AML with BCR-ABL1,RED,
+TCGA.AB.2903,AML with mutated NPM1,PINK,
+TCGA.AB.2904,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2908,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2909,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2910,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2912,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2913,AML with mutated NPM1,PINK,
+TCGA.AB.2914,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2915,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2916,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2918,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2919,AML with mutated NPM1,PINK,
+TCGA.AB.2921,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2924,AML with mutated NPM1,PINK,
+TCGA.AB.2925,AML with mutated NPM1,PINK,
+TCGA.AB.2927,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2930,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.2931,AML with mutated NPM1,PINK,
+TCGA.AB.2932,AML with mutated NPM1,PINK,
+TCGA.AB.2933,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2935,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2937,AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1,ORANGE,ONE UNDER CHECKERS
+TCGA.AB.2938,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2940,AML with biallelic mutations of CEBPA,YELLOW,
+TCGA.AB.2941,AML with BCR-ABL1,RED,
+TCGA.AB.2942,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2943,AML with TP53 mutation,BROWN,UNDER YELLOW
+TCGA.AB.2944,AML with BCR-ABL1,RED,
+TCGA.AB.2948,AML with IDH2 mutation and no over class defining lesions,LIGHT BLUE,
+TCGA.AB.2950,AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1,ORANGE,ONE UNDER CHECKERS
+TCGA.AB.2952,AML with biallelic mutations of CEBPA,YELLOW,
+TCGA.AB.2954,AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11,DARK BLUE,
+TCGA.AB.2955,AML with biallelic mutations of CEBPA,YELLOW,
+TCGA.AB.2956,AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A,DARK GREEN,
+TCGA.AB.2959,AML with IDH2 mutation and no over class defining lesions,LIGHT BLUE,
+TCGA.AB.2963,AML with mutated NPM1,PINK,
+TCGA.AB.2965,AML with mutated NPM1,PINK,
+TCGA.AB.2967,AML with mutated NPM1,PINK,
+TCGA.AB.2969,AML with mutated NPM1,PINK,
+TCGA.AB.2970,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2972,AML with mutated NPM1,PINK,
+TCGA.AB.2973,AML with mutated NPM1,PINK,
+TCGA.AB.2976,AML with mutated NPM1,PINK,
+TCGA.AB.2978,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2979,AML with biallelic mutations of CEBPA,YELLOW,
+TCGA.AB.2980,APL with PML-RARA,MID BLUE,
+TCGA.AB.2981,AML with mutated NPM1,PINK,
+TCGA.AB.2982,APL with PML-RARA,MID BLUE,
+TCGA.AB.2983,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.2984,AML with mutated NPM1,PINK,
+TCGA.AB.2985,AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A,DARK GREEN,
+TCGA.AB.2986,AML with mutated NPM1,PINK,
+TCGA.AB.2987,AML with mutated NPM1,PINK,
+TCGA.AB.2988,AML with mutated NPM1,PINK,
+TCGA.AB.2990,AML with mutated NPM1,PINK,
+TCGA.AB.2991,APL with PML-RARA,MID BLUE,
+TCGA.AB.2992,AML with mutated NPM1,PINK,
+TCGA.AB.2993,AML with mutated NPM1,PINK,
+TCGA.AB.2994,APL with PML-RARA,MID BLUE,
+TCGA.AB.2998,APL with PML-RARA,MID BLUE,
+TCGA.AB.2999,APL with PML-RARA,MID BLUE,
+TCGA.AB.3000,AML with biallelic mutations of CEBPA,YELLOW,
+TCGA.AB.3001,APL with PML-RARA,MID BLUE,
+TCGA.AB.3002,AML with IDH2 mutation and no over class defining lesions,LIGHT BLUE,
+TCGA.AB.3005,AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A,DARK GREEN,
+TCGA.AB.3006,AML with driver mutations but no detected class-defining lesions,GREEN,
+TCGA.AB.3007,APL with PML-RARA,MID BLUE,
+TCGA.AB.3008,AML with biallelic mutations of CEBPA,YELLOW,
+TCGA.AB.3009,AML with mutated RUNX1,GRAY,RGB 127
+TCGA.AB.3011,AML with mutated NPM1,PINK,
+TCGA.AB.3012,APL with PML-RARA,MID BLUE,
